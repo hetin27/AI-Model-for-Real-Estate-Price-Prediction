@@ -19,7 +19,6 @@ The goal is to provide accurate property price estimates based on key features l
 
 * `app.py`: The main Python script containing the data cleaning, model training pipeline, and the Streamlit UI code.
 * `house_price_mumbai.csv`: The raw dataset used for training the model.
-* `requirements.txt`: Lists all Python package dependencies.
 * `README.md`: This project description file.
 
 ## 🛠️ How to Run Locally
